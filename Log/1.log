@@ -1,0 +1,284 @@
+2011-11-16 17:36:27: Inywhere account service is not avaliable.,line:45
+2011-11-22 15:18:35: Authorze.NET payment interface error.,line:45
+2011-11-23 16:38:41: Inywhere account service is not avaliable.,line:45
+2011-11-23 16:39:40: Authorze.NET payment interface error.,line:45
+2011-11-23 16:44:48: Inywhere account service is not avaliable.,line:45
+2011-11-23 17:07:39: Inywhere account service is not avaliable.,line:45
+2011-11-23 17:18:39: Inywhere account service is not avaliable.,line:45
+2011-11-23 17:54:00: Inywhere account service is not avaliable.,line:45
+2011-11-28 13:43:17: Inywhere account service is not avaliable.,line:45
+2011-11-28 13:43:38: Inywhere account service is not avaliable.,line:45
+2011-11-28 13:44:16: Inywhere account service is not avaliable.,line:45
+2011-11-28 13:46:25: Inywhere account service is not avaliable.,line:45
+2011-11-28 13:50:12: Inywhere account service is not avaliable.,line:45
+2011-11-28 13:55:31: Authorze.NET payment interface error.,line:45
+2012-07-19 13:40:56: Found endpoint : 'live-paypalapi', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-19 13:40:56: Found endpoint : 'live-paypalapiaa', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-19 13:40:56: Found endpoint : 'live-paypalapi-threeToken', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-19 13:40:56: Found endpoint : 'live-paypalapiaa-threeToken', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-19 13:40:56: Found endpoint : 'sandbox-paypalapi', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-19 13:40:56: Found endpoint : 'sandbox-paypalapiaa', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-19 13:40:56: Found endpoint : 'sandbox-paypalapi-threeToken', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-19 13:40:56: Found endpoint : 'sandbox-paypalapiaa-threeToken', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-19 13:40:56: Found endpoint : 'beta-sandbox-paypalapi', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-19 13:40:56: Found endpoint : 'beta-sandbox-paypalapiaa', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-19 13:40:56: Found endpoint : 'beta-sandbox-paypalapi-threeToken', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-19 13:40:56: Found endpoint : 'beta-sandbox-paypalapiaa-threeToken', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-19 13:40:56: Found endpoint : 'stage2ek-paypalapi', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-19 13:40:56: Found endpoint : 'stage2ek-paypalapiaa', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-19 13:40:56: Found endpoint : 'stage2ek-paypalapi-threeToken', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-19 13:40:56: Found endpoint : 'stage2ek-paypalapiaa-threeToken', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-19 13:40:56: Current assembly version: paypal_base, Version=5.6.65.1, Culture=neutral, PublicKeyToken=b37401294aaf5617,line:0
+2012-07-19 13:40:56: TrustAll :True,line:0
+2012-07-19 13:40:56: Endpoints loaded :16,line:0
+2012-07-19 13:40:56: METHOD=SetExpressCheckout&CANCELURL=http%3a%2f%2flocalhost%3a18369%2f%3fpname%3di-Ecard&PAYMENTACTION=Sale&CURRENCYCODE=USD&L_NAME0=inywhere_ecard_vip&L_DESC0=Inywhere+payment&L_AMT0=11.99&ITEMAMT=11.99&AMT=11.99&RETURNURL=http%3a%2f%2flocalhost%3a18369%2fBillingForm%2fPaypal&NOSHIPING=1&REQCONFIRMSHIPPING=0&USER=yjddd_1340167964_biz_api1.gmail.com&PWD=****************&SIGNATURE=********************************************************&VERSION=65.1&SOURCE=PayPalDotNETNVP-5-6-65 sent,line:0
+2012-07-19 13:41:02: Result : Elapsed Time : 5s 709 ms TOKEN=EC%2d6BA22859JR531021E&TIMESTAMP=2012%2d07%2d19T05%3a41%3a07Z&CORRELATIONID=8f52ad507edad&ACK=Success&VERSION=65%2e1&BUILD=3300093,line:0
+2012-07-19 13:45:46: METHOD=DoDirectPayment&PAYMENTACTION=Sale&AMT=11.99&CURRENCYCODE=USD&CREDITCARDTYPE=Amex&ACCT=***************&EXPDATE=112012&CVV2=****&IPADDRESS=127.0.0.1&USER=yjddd_1340167964_biz_api1.gmail.com&PWD=****************&SIGNATURE=********************************************************&VERSION=65.1&SOURCE=PayPalDotNETNVP-5-6-65 sent,line:0
+2012-07-19 13:46:05: Result : Elapsed Time : 19s 399 ms TIMESTAMP=2012%2d07%2d19T05%3a46%3a11Z&CORRELATIONID=26da4ace39942&ACK=Success&VERSION=65%2e1&BUILD=3288089&AMT=11%2e99&CURRENCYCODE=USD&AVSCODE=X&CVV2MATCH=M&TRANSACTIONID=5TJ93601K1202140H,line:0
+2012-07-19 16:45:11: Found endpoint : 'live-paypalapi', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-19 16:45:11: Found endpoint : 'live-paypalapiaa', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-19 16:45:11: Found endpoint : 'live-paypalapi-threeToken', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-19 16:45:11: Found endpoint : 'live-paypalapiaa-threeToken', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-19 16:45:11: Found endpoint : 'sandbox-paypalapi', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-19 16:45:11: Found endpoint : 'sandbox-paypalapiaa', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-19 16:45:11: Found endpoint : 'sandbox-paypalapi-threeToken', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-19 16:45:11: Found endpoint : 'sandbox-paypalapiaa-threeToken', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-19 16:45:11: Found endpoint : 'beta-sandbox-paypalapi', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-19 16:45:11: Found endpoint : 'beta-sandbox-paypalapiaa', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-19 16:45:11: Found endpoint : 'beta-sandbox-paypalapi-threeToken', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-19 16:45:11: Found endpoint : 'beta-sandbox-paypalapiaa-threeToken', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-19 16:45:11: Found endpoint : 'stage2ek-paypalapi', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-19 16:45:11: Found endpoint : 'stage2ek-paypalapiaa', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-19 16:45:11: Found endpoint : 'stage2ek-paypalapi-threeToken', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-19 16:45:11: Found endpoint : 'stage2ek-paypalapiaa-threeToken', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-19 16:45:11: Current assembly version: paypal_base, Version=5.6.65.1, Culture=neutral, PublicKeyToken=b37401294aaf5617,line:0
+2012-07-19 16:45:11: TrustAll :True,line:0
+2012-07-19 16:45:11: Endpoints loaded :16,line:0
+2012-07-19 16:45:11: METHOD=DoDirectPayment&PAYMENTACTION=Sale&AMT=6.99&CURRENCYCODE=USD&CREDITCARDTYPE=Amex&ACCT=***************&EXPDATE=102012&CVV2=****&IPADDRESS=127.0.0.1&USER=yjddd_1340167964_biz_api1.gmail.com&PWD=****************&SIGNATURE=********************************************************&VERSION=65.1&SOURCE=PayPalDotNETNVP-5-6-65 sent,line:0
+2012-07-19 16:45:25: Result : Elapsed Time : 13s 795 ms TIMESTAMP=2012%2d07%2d19T08%3a45%3a30Z&CORRELATIONID=8a99e84335b49&ACK=Success&VERSION=65%2e1&BUILD=3288089&AMT=6%2e99&CURRENCYCODE=USD&AVSCODE=X&CVV2MATCH=M&TRANSACTIONID=7XC83267VB512734C,line:0
+2012-07-24 11:46:31: Found endpoint : 'live-paypalapi', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-24 11:46:31: Found endpoint : 'live-paypalapiaa', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-24 11:46:31: Found endpoint : 'live-paypalapi-threeToken', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-24 11:46:31: Found endpoint : 'live-paypalapiaa-threeToken', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-24 11:46:31: Found endpoint : 'sandbox-paypalapi', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-24 11:46:31: Found endpoint : 'sandbox-paypalapiaa', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 11:46:31: Found endpoint : 'sandbox-paypalapi-threeToken', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-24 11:46:31: Found endpoint : 'sandbox-paypalapiaa-threeToken', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 11:46:31: Found endpoint : 'beta-sandbox-paypalapi', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-24 11:46:31: Found endpoint : 'beta-sandbox-paypalapiaa', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 11:46:31: Found endpoint : 'beta-sandbox-paypalapi-threeToken', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-24 11:46:31: Found endpoint : 'beta-sandbox-paypalapiaa-threeToken', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 11:46:31: Found endpoint : 'stage2ek-paypalapi', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-24 11:46:31: Found endpoint : 'stage2ek-paypalapiaa', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-24 11:46:31: Found endpoint : 'stage2ek-paypalapi-threeToken', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-24 11:46:31: Found endpoint : 'stage2ek-paypalapiaa-threeToken', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-24 11:46:31: Current assembly version: paypal_base, Version=5.6.65.1, Culture=neutral, PublicKeyToken=b37401294aaf5617,line:0
+2012-07-24 11:46:31: TrustAll :True,line:0
+2012-07-24 11:46:31: Endpoints loaded :16,line:0
+2012-07-24 11:46:31: METHOD=DoDirectPayment&PAYMENTACTION=Sale&AMT=11.99&CURRENCYCODE=USD&CREDITCARDTYPE=Amex&ACCT=***************&EXPDATE=122012&CVV2=****&IPADDRESS=127.0.0.1&USER=yjddd_1340167964_biz_api1.gmail.com&PWD=****************&SIGNATURE=********************************************************&VERSION=65.1&SOURCE=PayPalDotNETNVP-5-6-65 sent,line:0
+2012-07-24 11:46:45: Result : Elapsed Time : 14s 32 ms TIMESTAMP=2012%2d07%2d24T03%3a46%3a46Z&CORRELATIONID=970399afc094d&ACK=Success&VERSION=65%2e1&BUILD=3288089&AMT=11%2e99&CURRENCYCODE=USD&AVSCODE=X&CVV2MATCH=M&TRANSACTIONID=9C521798BA632954V,line:0
+2012-07-24 11:46:46: Inywhere account service is not avaliable.,line:46
+2012-07-24 11:54:08: METHOD=DoDirectPayment&PAYMENTACTION=Sale&AMT=11.99&CURRENCYCODE=USD&CREDITCARDTYPE=Amex&ACCT=***************&EXPDATE=112012&CVV2=****&IPADDRESS=127.0.0.1&USER=yjddd_1340167964_biz_api1.gmail.com&PWD=****************&SIGNATURE=********************************************************&VERSION=65.1&SOURCE=PayPalDotNETNVP-5-6-65 sent,line:0
+2012-07-24 11:54:30: Result : Elapsed Time : 21s 844 ms TIMESTAMP=2012%2d07%2d24T03%3a54%3a27Z&CORRELATIONID=5a31306e64790&ACK=Success&VERSION=65%2e1&BUILD=3288089&AMT=11%2e99&CURRENCYCODE=USD&AVSCODE=X&CVV2MATCH=M&TRANSACTIONID=7BM560517G142351U,line:0
+2012-07-24 11:55:25: Inywhere account service is not avaliable.,line:46
+2012-07-24 11:56:43: METHOD=DoDirectPayment&PAYMENTACTION=Sale&AMT=11.99&CURRENCYCODE=USD&CREDITCARDTYPE=Amex&ACCT=***************&EXPDATE=112012&CVV2=****&IPADDRESS=127.0.0.1&USER=yjddd_1340167964_biz_api1.gmail.com&PWD=****************&SIGNATURE=********************************************************&VERSION=65.1&SOURCE=PayPalDotNETNVP-5-6-65 sent,line:0
+2012-07-24 11:56:58: Result : Elapsed Time : 14s 681 ms TIMESTAMP=2012%2d07%2d24T03%3a56%3a58Z&CORRELATIONID=2b9436d712e9&ACK=Success&VERSION=65%2e1&BUILD=3288089&AMT=11%2e99&CURRENCYCODE=USD&AVSCODE=X&CVV2MATCH=M&TRANSACTIONID=0TY87653YG596644P,line:0
+2012-07-24 11:56:58: Inywhere account service is not avaliable.,line:46
+2012-07-24 12:00:15: METHOD=DoDirectPayment&PAYMENTACTION=Sale&AMT=11.99&CURRENCYCODE=USD&CREDITCARDTYPE=Amex&ACCT=***************&EXPDATE=122012&CVV2=****&IPADDRESS=127.0.0.1&USER=yjddd_1340167964_biz_api1.gmail.com&PWD=****************&SIGNATURE=********************************************************&VERSION=65.1&SOURCE=PayPalDotNETNVP-5-6-65 sent,line:0
+2012-07-24 12:00:30: Result : Elapsed Time : 14s 881 ms TIMESTAMP=2012%2d07%2d24T04%3a00%3a29Z&CORRELATIONID=1184117c27234&ACK=Success&VERSION=65%2e1&BUILD=3288089&AMT=11%2e99&CURRENCYCODE=USD&AVSCODE=X&CVV2MATCH=M&TRANSACTIONID=45624374YD563935A,line:0
+2012-07-24 12:03:09: Inywhere account service is not avaliable.,line:46
+2012-07-24 12:04:05: Found endpoint : 'live-paypalapi', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-24 12:04:05: Found endpoint : 'live-paypalapiaa', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-24 12:04:05: Found endpoint : 'live-paypalapi-threeToken', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-24 12:04:05: Found endpoint : 'live-paypalapiaa-threeToken', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-24 12:04:05: Found endpoint : 'sandbox-paypalapi', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-24 12:04:05: Found endpoint : 'sandbox-paypalapiaa', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 12:04:05: Found endpoint : 'sandbox-paypalapi-threeToken', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-24 12:04:05: Found endpoint : 'sandbox-paypalapiaa-threeToken', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 12:04:05: Found endpoint : 'beta-sandbox-paypalapi', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-24 12:04:05: Found endpoint : 'beta-sandbox-paypalapiaa', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 12:04:05: Found endpoint : 'beta-sandbox-paypalapi-threeToken', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-24 12:04:05: Found endpoint : 'beta-sandbox-paypalapiaa-threeToken', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 12:04:05: Found endpoint : 'stage2ek-paypalapi', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-24 12:04:05: Found endpoint : 'stage2ek-paypalapiaa', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-24 12:04:05: Found endpoint : 'stage2ek-paypalapi-threeToken', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-24 12:04:05: Found endpoint : 'stage2ek-paypalapiaa-threeToken', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-24 12:04:05: Current assembly version: paypal_base, Version=5.6.65.1, Culture=neutral, PublicKeyToken=b37401294aaf5617,line:0
+2012-07-24 12:04:05: TrustAll :True,line:0
+2012-07-24 12:04:05: Endpoints loaded :16,line:0
+2012-07-24 12:04:05: METHOD=DoDirectPayment&PAYMENTACTION=Sale&AMT=11.99&CURRENCYCODE=USD&CREDITCARDTYPE=Amex&ACCT=***************&EXPDATE=102012&CVV2=****&IPADDRESS=127.0.0.1&USER=yjddd_1340167964_biz_api1.gmail.com&PWD=****************&SIGNATURE=********************************************************&VERSION=65.1&SOURCE=PayPalDotNETNVP-5-6-65 sent,line:0
+2012-07-24 12:04:19: Result : Elapsed Time : 14s 30 ms TIMESTAMP=2012%2d07%2d24T04%3a04%3a20Z&CORRELATIONID=c67ddd3d11d42&ACK=Success&VERSION=65%2e1&BUILD=3288089&AMT=11%2e99&CURRENCYCODE=USD&AVSCODE=X&CVV2MATCH=M&TRANSACTIONID=4MP71454WT5331508,line:0
+2012-07-24 15:38:17: Found endpoint : 'live-paypalapi', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-24 15:38:17: Found endpoint : 'live-paypalapiaa', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-24 15:38:17: Found endpoint : 'live-paypalapi-threeToken', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-24 15:38:17: Found endpoint : 'live-paypalapiaa-threeToken', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-24 15:38:17: Found endpoint : 'sandbox-paypalapi', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-24 15:38:17: Found endpoint : 'sandbox-paypalapiaa', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 15:38:17: Found endpoint : 'sandbox-paypalapi-threeToken', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-24 15:38:17: Found endpoint : 'sandbox-paypalapiaa-threeToken', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 15:38:17: Found endpoint : 'beta-sandbox-paypalapi', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-24 15:38:17: Found endpoint : 'beta-sandbox-paypalapiaa', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 15:38:17: Found endpoint : 'beta-sandbox-paypalapi-threeToken', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-24 15:38:17: Found endpoint : 'beta-sandbox-paypalapiaa-threeToken', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 15:38:18: Found endpoint : 'stage2ek-paypalapi', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-24 15:38:18: Found endpoint : 'stage2ek-paypalapiaa', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-24 15:38:18: Found endpoint : 'stage2ek-paypalapi-threeToken', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-24 15:38:18: Found endpoint : 'stage2ek-paypalapiaa-threeToken', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-24 15:38:18: Current assembly version: paypal_base, Version=5.6.65.1, Culture=neutral, PublicKeyToken=b37401294aaf5617,line:0
+2012-07-24 15:38:18: TrustAll :True,line:0
+2012-07-24 15:38:18: Endpoints loaded :16,line:0
+2012-07-24 15:38:18: METHOD=DoDirectPayment&PAYMENTACTION=Sale&AMT=1.99&CURRENCYCODE=USD&CREDITCARDTYPE=Amex&ACCT=***************&EXPDATE=112012&CVV2=****&IPADDRESS=127.0.0.1&USER=yjddd_1340167964_biz_api1.gmail.com&PWD=****************&SIGNATURE=********************************************************&VERSION=65.1&SOURCE=PayPalDotNETNVP-5-6-65 sent,line:0
+2012-07-24 15:38:33: Result : Elapsed Time : 15s 230 ms TIMESTAMP=2012%2d07%2d24T07%3a38%3a34Z&CORRELATIONID=b7010eda74710&ACK=Success&VERSION=65%2e1&BUILD=3288089&AMT=1%2e99&CURRENCYCODE=USD&AVSCODE=X&CVV2MATCH=M&TRANSACTIONID=31A50975NP508593V,line:0
+2012-07-24 16:35:44: Found endpoint : 'live-paypalapi', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-24 16:35:44: Found endpoint : 'live-paypalapiaa', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-24 16:35:44: Found endpoint : 'live-paypalapi-threeToken', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-24 16:35:44: Found endpoint : 'live-paypalapiaa-threeToken', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-24 16:35:44: Found endpoint : 'sandbox-paypalapi', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-24 16:35:44: Found endpoint : 'sandbox-paypalapiaa', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 16:35:44: Found endpoint : 'sandbox-paypalapi-threeToken', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-24 16:35:44: Found endpoint : 'sandbox-paypalapiaa-threeToken', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 16:35:44: Found endpoint : 'beta-sandbox-paypalapi', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-24 16:35:44: Found endpoint : 'beta-sandbox-paypalapiaa', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 16:35:44: Found endpoint : 'beta-sandbox-paypalapi-threeToken', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-24 16:35:44: Found endpoint : 'beta-sandbox-paypalapiaa-threeToken', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 16:35:44: Found endpoint : 'stage2ek-paypalapi', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-24 16:35:44: Found endpoint : 'stage2ek-paypalapiaa', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-24 16:35:44: Found endpoint : 'stage2ek-paypalapi-threeToken', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-24 16:35:44: Found endpoint : 'stage2ek-paypalapiaa-threeToken', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-24 16:35:44: Current assembly version: paypal_base, Version=5.6.65.1, Culture=neutral, PublicKeyToken=b37401294aaf5617,line:0
+2012-07-24 16:35:44: TrustAll :True,line:0
+2012-07-24 16:35:44: Endpoints loaded :16,line:0
+2012-07-24 16:35:44: METHOD=SetExpressCheckout&CANCELURL=http%3a%2f%2flocalhost%3a18369%2f%3fpname%3dVip&PAYMENTACTION=Sale&CURRENCYCODE=USD&L_NAME0=inywhere_vip_vip&L_DESC0=Inywhere+payment&L_AMT0=11.99&ITEMAMT=11.99&AMT=11.99&RETURNURL=http%3a%2f%2flocalhost%3a18369%2fBillingForm%2fPaypal&NOSHIPING=1&REQCONFIRMSHIPPING=0&USER=yjddd_1340167964_biz_api1.gmail.com&PWD=****************&SIGNATURE=********************************************************&VERSION=65.1&SOURCE=PayPalDotNETNVP-5-6-65 sent,line:0
+2012-07-24 16:35:51: METHOD=SetExpressCheckout&CANCELURL=http%3a%2f%2flocalhost%3a18369%2f%3fpname%3dVip&PAYMENTACTION=Sale&CURRENCYCODE=USD&L_NAME0=inywhere_vip_vip&L_DESC0=Inywhere+payment&L_AMT0=11.99&ITEMAMT=11.99&AMT=11.99&RETURNURL=http%3a%2f%2flocalhost%3a18369%2fBillingForm%2fPaypal&NOSHIPING=1&REQCONFIRMSHIPPING=0&USER=yjddd_1340167964_biz_api1.gmail.com&PWD=****************&SIGNATURE=********************************************************&VERSION=65.1&SOURCE=PayPalDotNETNVP-5-6-65 sent,line:0
+2012-07-24 16:35:54: Result : Elapsed Time : 9s 392 ms TOKEN=EC%2d7UW8800453282762L&TIMESTAMP=2012%2d07%2d24T08%3a35%3a55Z&CORRELATIONID=961905e64b1e9&ACK=Success&VERSION=65%2e1&BUILD=3332236,line:0
+2012-07-24 16:35:56: Result : Elapsed Time : 4s 712 ms TOKEN=EC%2d0UG1237601725063L&TIMESTAMP=2012%2d07%2d24T08%3a35%3a58Z&CORRELATIONID=29a128d18b7e9&ACK=Success&VERSION=65%2e1&BUILD=3332236,line:0
+2012-07-24 16:41:28: Found endpoint : 'live-paypalapi', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-24 16:41:28: Found endpoint : 'live-paypalapiaa', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-24 16:41:28: Found endpoint : 'live-paypalapi-threeToken', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-24 16:41:28: Found endpoint : 'live-paypalapiaa-threeToken', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-24 16:41:28: Found endpoint : 'sandbox-paypalapi', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-24 16:41:28: Found endpoint : 'sandbox-paypalapiaa', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 16:41:28: Found endpoint : 'sandbox-paypalapi-threeToken', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-24 16:41:28: Found endpoint : 'sandbox-paypalapiaa-threeToken', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 16:41:28: Found endpoint : 'beta-sandbox-paypalapi', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-24 16:41:28: Found endpoint : 'beta-sandbox-paypalapiaa', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 16:41:28: Found endpoint : 'beta-sandbox-paypalapi-threeToken', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-24 16:41:28: Found endpoint : 'beta-sandbox-paypalapiaa-threeToken', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 16:41:28: Found endpoint : 'stage2ek-paypalapi', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-24 16:41:28: Found endpoint : 'stage2ek-paypalapiaa', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-24 16:41:28: Found endpoint : 'stage2ek-paypalapi-threeToken', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-24 16:41:28: Found endpoint : 'stage2ek-paypalapiaa-threeToken', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-24 16:41:28: Current assembly version: paypal_base, Version=5.6.65.1, Culture=neutral, PublicKeyToken=b37401294aaf5617,line:0
+2012-07-24 16:41:28: TrustAll :True,line:0
+2012-07-24 16:41:28: Endpoints loaded :16,line:0
+2012-07-24 16:41:28: METHOD=SetExpressCheckout&CANCELURL=http%3a%2f%2flocalhost%3a18369%2f%3fpname%3dVip&PAYMENTACTION=Sale&CURRENCYCODE=USD&L_NAME0=inywhere_vip_vip&L_DESC0=Inywhere+payment&L_AMT0=11.99&ITEMAMT=11.99&AMT=11.99&RETURNURL=http%3a%2f%2flocalhost%3a18369%2fBillingForm%2fPaypal&NOSHIPING=1&REQCONFIRMSHIPPING=0&USER=yjddd_1340167964_biz_api1.gmail.com&PWD=****************&SIGNATURE=********************************************************&VERSION=65.1&SOURCE=PayPalDotNETNVP-5-6-65 sent,line:0
+2012-07-24 16:41:31: Result : Elapsed Time : 3s 662 ms TOKEN=EC%2d9CB46819AJ966390D&TIMESTAMP=2012%2d07%2d24T08%3a41%3a33Z&CORRELATIONID=25e6af6629271&ACK=Success&VERSION=65%2e1&BUILD=3332236,line:0
+2012-07-24 16:50:14: Found endpoint : 'live-paypalapi', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-24 16:50:14: Found endpoint : 'live-paypalapiaa', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-24 16:50:14: Found endpoint : 'live-paypalapi-threeToken', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-24 16:50:14: Found endpoint : 'live-paypalapiaa-threeToken', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-24 16:50:14: Found endpoint : 'sandbox-paypalapi', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-24 16:50:14: Found endpoint : 'sandbox-paypalapiaa', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 16:50:14: Found endpoint : 'sandbox-paypalapi-threeToken', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-24 16:50:14: Found endpoint : 'sandbox-paypalapiaa-threeToken', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 16:50:14: Found endpoint : 'beta-sandbox-paypalapi', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-24 16:50:14: Found endpoint : 'beta-sandbox-paypalapiaa', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 16:50:14: Found endpoint : 'beta-sandbox-paypalapi-threeToken', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-24 16:50:14: Found endpoint : 'beta-sandbox-paypalapiaa-threeToken', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 16:50:14: Found endpoint : 'stage2ek-paypalapi', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-24 16:50:14: Found endpoint : 'stage2ek-paypalapiaa', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-24 16:50:14: Found endpoint : 'stage2ek-paypalapi-threeToken', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-24 16:50:14: Found endpoint : 'stage2ek-paypalapiaa-threeToken', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-24 16:50:14: Current assembly version: paypal_base, Version=5.6.65.1, Culture=neutral, PublicKeyToken=b37401294aaf5617,line:0
+2012-07-24 16:50:14: TrustAll :True,line:0
+2012-07-24 16:50:14: Endpoints loaded :16,line:0
+2012-07-24 16:50:14: METHOD=SetExpressCheckout&CANCELURL=http%3a%2f%2flocalhost%3a18369%2f%3fpname%3di-Ecard&PAYMENTACTION=Sale&CURRENCYCODE=USD&L_NAME0=inywhere_ecard_monthly&L_DESC0=Inywhere+payment&L_AMT0=1.99&ITEMAMT=1.99&AMT=1.99&RETURNURL=http%3a%2f%2flocalhost%3a18369%2fBillingForm%2fPaypal&NOSHIPING=1&REQCONFIRMSHIPPING=0&USER=yjddd_1340167964_biz_api1.gmail.com&PWD=****************&SIGNATURE=********************************************************&VERSION=65.1&SOURCE=PayPalDotNETNVP-5-6-65 sent,line:0
+2012-07-24 16:50:18: Result : Elapsed Time : 4s 54 ms TOKEN=EC%2d7YG17992JD0843453&TIMESTAMP=2012%2d07%2d24T08%3a50%3a20Z&CORRELATIONID=4a453d8edaa10&ACK=Success&VERSION=65%2e1&BUILD=3332236,line:0
+2012-07-24 16:59:36: Found endpoint : 'live-paypalapi', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-24 16:59:36: Found endpoint : 'live-paypalapiaa', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-24 16:59:36: Found endpoint : 'live-paypalapi-threeToken', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-24 16:59:36: Found endpoint : 'live-paypalapiaa-threeToken', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-24 16:59:36: Found endpoint : 'sandbox-paypalapi', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-24 16:59:36: Found endpoint : 'sandbox-paypalapiaa', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 16:59:36: Found endpoint : 'sandbox-paypalapi-threeToken', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-24 16:59:36: Found endpoint : 'sandbox-paypalapiaa-threeToken', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 16:59:36: Found endpoint : 'beta-sandbox-paypalapi', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-24 16:59:36: Found endpoint : 'beta-sandbox-paypalapiaa', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 16:59:36: Found endpoint : 'beta-sandbox-paypalapi-threeToken', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-24 16:59:36: Found endpoint : 'beta-sandbox-paypalapiaa-threeToken', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 16:59:36: Found endpoint : 'stage2ek-paypalapi', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-24 16:59:36: Found endpoint : 'stage2ek-paypalapiaa', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-24 16:59:36: Found endpoint : 'stage2ek-paypalapi-threeToken', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-24 16:59:36: Found endpoint : 'stage2ek-paypalapiaa-threeToken', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-24 16:59:36: Current assembly version: paypal_base, Version=5.6.65.1, Culture=neutral, PublicKeyToken=b37401294aaf5617,line:0
+2012-07-24 16:59:36: TrustAll :True,line:0
+2012-07-24 16:59:36: Endpoints loaded :16,line:0
+2012-07-24 16:59:36: METHOD=SetExpressCheckout&CANCELURL=http%3a%2f%2flocalhost%3a18369%2f%3fpname%3di-Ecard&PAYMENTACTION=Sale&CURRENCYCODE=USD&L_NAME0=inywhere_ecard_monthly&L_DESC0=Inywhere+payment&L_AMT0=1.99&ITEMAMT=1.99&AMT=1.99&RETURNURL=http%3a%2f%2flocalhost%3a18369%2fBillingForm%2fPaypal&NOSHIPING=1&REQCONFIRMSHIPPING=0&USER=yjddd_1340167964_biz_api1.gmail.com&PWD=****************&SIGNATURE=********************************************************&VERSION=65.1&SOURCE=PayPalDotNETNVP-5-6-65 sent,line:0
+2012-07-24 16:59:41: Result : Elapsed Time : 4s 914 ms TOKEN=EC%2d28F04446290830259&TIMESTAMP=2012%2d07%2d24T08%3a59%3a42Z&CORRELATIONID=a0bd7db974aa1&ACK=Success&VERSION=65%2e1&BUILD=3332236,line:0
+2012-07-24 17:03:32: METHOD=DoExpressCheckoutPayment&TOKEN=EC-28F04446290830259&PAYERID=6GJ7ABFDS5FRG&AMT=1.99&PAYMENTACTION=Sale&CURRENCYCODE=USD&IPADDRESS=127.0.0.1&USER=yjddd_1340167964_biz_api1.gmail.com&PWD=****************&SIGNATURE=********************************************************&VERSION=65.1&SOURCE=PayPalDotNETNVP-5-6-65 sent,line:0
+2012-07-24 17:03:45: Result : Elapsed Time : 12s 533 ms TOKEN=EC%2d28F04446290830259&SUCCESSPAGEREDIRECTREQUESTED=false&TIMESTAMP=2012%2d07%2d24T09%3a03%3a46Z&CORRELATIONID=a41dac40c1189&ACK=Success&VERSION=65%2e1&BUILD=3332236&TRANSACTIONID=7VG12001HM4735215&TRANSACTIONTYPE=expresscheckout&PAYMENTTYPE=instant&ORDERTIME=2012%2d07%2d24T09%3a03%3a44Z&AMT=1%2e99&FEEAMT=0%2e36&TAXAMT=0%2e00&CURRENCYCODE=USD&PAYMENTSTATUS=Completed&PENDINGREASON=None&REASONCODE=None&PROTECTIONELIGIBILITY=Eligible&INSURANCEOPTIONSELECTED=false&SHIPPINGOPTIONISDEFAULT=false&PAYMENTINFO_0_TRANSACTIONID=7VG12001HM4735215&PAYMENTINFO_0_TRANSACTIONTYPE=expresscheckout&PAYMENTINFO_0_PAYMENTTYPE=instant&PAYMENTINFO_0_ORDERTIME=2012%2d07%2d24T09%3a03%3a44Z&PAYMENTINFO_0_AMT=1%2e99&PAYMENTINFO_0_FEEAMT=0%2e36&PAYMENTINFO_0_TAXAMT=0%2e00&PAYMENTINFO_0_CURRENCYCODE=USD&PAYMENTINFO_0_PAYMENTSTATUS=Completed&PAYMENTINFO_0_PENDINGREASON=None&PAYMENTINFO_0_REASONCODE=None&PAYMENTINFO_0_PROTECTIONELIGIBILITY=Eligible&PAYMENTINFO_0_PROTECTIONELIGIBILITYTYPE=ItemNotReceivedEligible%2cUnauthorizedPaymentEligible&PAYMENTINFO_0_ERRORCODE=0&PAYMENTINFO_0_ACK=Success,line:0
+2012-07-24 17:44:00: Found endpoint : 'live-paypalapi', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-24 17:44:00: Found endpoint : 'live-paypalapiaa', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-24 17:44:00: Found endpoint : 'live-paypalapi-threeToken', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-24 17:44:00: Found endpoint : 'live-paypalapiaa-threeToken', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-24 17:44:00: Found endpoint : 'sandbox-paypalapi', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-24 17:44:00: Found endpoint : 'sandbox-paypalapiaa', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 17:44:00: Found endpoint : 'sandbox-paypalapi-threeToken', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-24 17:44:00: Found endpoint : 'sandbox-paypalapiaa-threeToken', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 17:44:00: Found endpoint : 'beta-sandbox-paypalapi', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-24 17:44:00: Found endpoint : 'beta-sandbox-paypalapiaa', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 17:44:00: Found endpoint : 'beta-sandbox-paypalapi-threeToken', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-24 17:44:00: Found endpoint : 'beta-sandbox-paypalapiaa-threeToken', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-24 17:44:00: Found endpoint : 'stage2ek-paypalapi', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-24 17:44:00: Found endpoint : 'stage2ek-paypalapiaa', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-24 17:44:00: Found endpoint : 'stage2ek-paypalapi-threeToken', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-24 17:44:00: Found endpoint : 'stage2ek-paypalapiaa-threeToken', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-24 17:44:00: Current assembly version: paypal_base, Version=5.6.65.1, Culture=neutral, PublicKeyToken=b37401294aaf5617,line:0
+2012-07-24 17:44:00: TrustAll :True,line:0
+2012-07-24 17:44:00: Endpoints loaded :16,line:0
+2012-07-24 17:44:00: METHOD=SetExpressCheckout&CANCELURL=http%3a%2f%2flocalhost%3a18369%2f%3fpname%3dVip&PAYMENTACTION=Sale&CURRENCYCODE=USD&L_NAME0=inywhere_vip_vip&L_DESC0=Inywhere+payment&L_AMT0=11.99&ITEMAMT=11.99&AMT=11.99&RETURNURL=http%3a%2f%2flocalhost%3a18369%2fBillingForm%2fPaypal&NOSHIPING=1&REQCONFIRMSHIPPING=0&USER=yjddd_1340167964_biz_api1.gmail.com&PWD=****************&SIGNATURE=********************************************************&VERSION=65.1&SOURCE=PayPalDotNETNVP-5-6-65 sent,line:0
+2012-07-24 17:44:04: Result : Elapsed Time : 3s 415 ms TOKEN=EC%2d0DU95322PX430720M&TIMESTAMP=2012%2d07%2d24T09%3a44%3a06Z&CORRELATIONID=b130df1bbf664&ACK=Success&VERSION=65%2e1&BUILD=3332236,line:0
+2012-07-25 10:16:42: Found endpoint : 'live-paypalapi', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-25 10:16:42: Found endpoint : 'live-paypalapiaa', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-25 10:16:42: Found endpoint : 'live-paypalapi-threeToken', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-25 10:16:42: Found endpoint : 'live-paypalapiaa-threeToken', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-25 10:16:42: Found endpoint : 'sandbox-paypalapi', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-25 10:16:42: Found endpoint : 'sandbox-paypalapiaa', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-25 10:16:42: Found endpoint : 'sandbox-paypalapi-threeToken', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-25 10:16:42: Found endpoint : 'sandbox-paypalapiaa-threeToken', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-25 10:16:42: Found endpoint : 'beta-sandbox-paypalapi', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-25 10:16:42: Found endpoint : 'beta-sandbox-paypalapiaa', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-25 10:16:42: Found endpoint : 'beta-sandbox-paypalapi-threeToken', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-25 10:16:42: Found endpoint : 'beta-sandbox-paypalapiaa-threeToken', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-25 10:16:42: Found endpoint : 'stage2ek-paypalapi', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-25 10:16:42: Found endpoint : 'stage2ek-paypalapiaa', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-25 10:16:42: Found endpoint : 'stage2ek-paypalapi-threeToken', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-25 10:16:42: Found endpoint : 'stage2ek-paypalapiaa-threeToken', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-25 10:16:42: Current assembly version: paypal_base, Version=5.6.65.1, Culture=neutral, PublicKeyToken=b37401294aaf5617,line:0
+2012-07-25 10:16:42: TrustAll :True,line:0
+2012-07-25 10:16:42: Endpoints loaded :16,line:0
+2012-07-25 10:16:42: METHOD=DoDirectPayment&PAYMENTACTION=Sale&AMT=11.99&CURRENCYCODE=USD&CREDITCARDTYPE=Amex&ACCT=***************&EXPDATE=112012&CVV2=****&IPADDRESS=127.0.0.1&USER=yjddd_1340167964_biz_api1.gmail.com&PWD=****************&SIGNATURE=********************************************************&VERSION=65.1&SOURCE=PayPalDotNETNVP-5-6-65 sent,line:0
+2012-07-25 10:17:06: Result : Elapsed Time : 24s 20 ms TIMESTAMP=2012%2d07%2d25T02%3a17%3a09Z&CORRELATIONID=17fee2fa408cd&ACK=Success&VERSION=65%2e1&BUILD=3288089&AMT=11%2e99&CURRENCYCODE=USD&AVSCODE=X&CVV2MATCH=M&TRANSACTIONID=0KU83221LS7022140,line:0
+2012-07-25 10:35:26: Found endpoint : 'live-paypalapi', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-25 10:35:26: Found endpoint : 'live-paypalapiaa', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-25 10:35:26: Found endpoint : 'live-paypalapi-threeToken', environment: 'live', port: 'PayPalAPI',line:0
+2012-07-25 10:35:26: Found endpoint : 'live-paypalapiaa-threeToken', environment: 'live', port: 'PayPalAPIAA',line:0
+2012-07-25 10:35:26: Found endpoint : 'sandbox-paypalapi', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-25 10:35:26: Found endpoint : 'sandbox-paypalapiaa', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-25 10:35:26: Found endpoint : 'sandbox-paypalapi-threeToken', environment: 'sandbox', port: 'PayPalAPI',line:0
+2012-07-25 10:35:26: Found endpoint : 'sandbox-paypalapiaa-threeToken', environment: 'sandbox', port: 'PayPalAPIAA',line:0
+2012-07-25 10:35:26: Found endpoint : 'beta-sandbox-paypalapi', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-25 10:35:26: Found endpoint : 'beta-sandbox-paypalapiaa', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-25 10:35:26: Found endpoint : 'beta-sandbox-paypalapi-threeToken', environment: 'beta-sandbox', port: 'PayPalAPI',line:0
+2012-07-25 10:35:26: Found endpoint : 'beta-sandbox-paypalapiaa-threeToken', environment: 'beta-sandbox', port: 'PayPalAPIAA',line:0
+2012-07-25 10:35:26: Found endpoint : 'stage2ek-paypalapi', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-25 10:35:26: Found endpoint : 'stage2ek-paypalapiaa', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-25 10:35:26: Found endpoint : 'stage2ek-paypalapi-threeToken', environment: 'stage2ek', port: 'PayPalAPI',line:0
+2012-07-25 10:35:26: Found endpoint : 'stage2ek-paypalapiaa-threeToken', environment: 'stage2ek', port: 'PayPalAPIAA',line:0
+2012-07-25 10:35:26: Current assembly version: paypal_base, Version=5.6.65.1, Culture=neutral, PublicKeyToken=b37401294aaf5617,line:0
+2012-07-25 10:35:26: TrustAll :True,line:0
+2012-07-25 10:35:26: Endpoints loaded :16,line:0
+2012-07-25 10:35:26: METHOD=SetExpressCheckout&CANCELURL=http%3a%2f%2flocalhost%3a18369%2f%3fpname%3dVip&PAYMENTACTION=Sale&CURRENCYCODE=USD&L_NAME0=inywhere_vip_vip&L_DESC0=Inywhere+payment&L_AMT0=11.99&ITEMAMT=11.99&AMT=11.99&RETURNURL=http%3a%2f%2flocalhost%3a18369%2fBillingForm%2fPaypal&NOSHIPING=1&REQCONFIRMSHIPPING=0&USER=yjddd_1340167964_biz_api1.gmail.com&PWD=****************&SIGNATURE=********************************************************&VERSION=65.1&SOURCE=PayPalDotNETNVP-5-6-65 sent,line:0
+2012-07-25 10:35:34: Result : Elapsed Time : 8s 249 ms TOKEN=EC%2d11R88017AR160805F&TIMESTAMP=2012%2d07%2d25T02%3a35%3a38Z&CORRELATIONID=fb8c53129c91a&ACK=Success&VERSION=65%2e1&BUILD=3332236,line:0
+2012-07-25 10:37:22: METHOD=DoExpressCheckoutPayment&TOKEN=EC-11R88017AR160805F&PAYERID=6GJ7ABFDS5FRG&AMT=11.99&PAYMENTACTION=Sale&CURRENCYCODE=USD&IPADDRESS=127.0.0.1&USER=yjddd_1340167964_biz_api1.gmail.com&PWD=****************&SIGNATURE=********************************************************&VERSION=65.1&SOURCE=PayPalDotNETNVP-5-6-65 sent,line:0
+2012-07-25 10:37:29: Result : Elapsed Time : 7s 856 ms TOKEN=EC%2d11R88017AR160805F&SUCCESSPAGEREDIRECTREQUESTED=false&TIMESTAMP=2012%2d07%2d25T02%3a37%3a33Z&CORRELATIONID=2931edb86da1e&ACK=Success&VERSION=65%2e1&BUILD=3332236&TRANSACTIONID=773623626W608983Y&TRANSACTIONTYPE=expresscheckout&PAYMENTTYPE=instant&ORDERTIME=2012%2d07%2d25T02%3a37%3a31Z&AMT=11%2e99&FEEAMT=0%2e65&TAXAMT=0%2e00&CURRENCYCODE=USD&PAYMENTSTATUS=Completed&PENDINGREASON=None&REASONCODE=None&PROTECTIONELIGIBILITY=Eligible&INSURANCEOPTIONSELECTED=false&SHIPPINGOPTIONISDEFAULT=false&PAYMENTINFO_0_TRANSACTIONID=773623626W608983Y&PAYMENTINFO_0_TRANSACTIONTYPE=expresscheckout&PAYMENTINFO_0_PAYMENTTYPE=instant&PAYMENTINFO_0_ORDERTIME=2012%2d07%2d25T02%3a37%3a31Z&PAYMENTINFO_0_AMT=11%2e99&PAYMENTINFO_0_FEEAMT=0%2e65&PAYMENTINFO_0_TAXAMT=0%2e00&PAYMENTINFO_0_CURRENCYCODE=USD&PAYMENTINFO_0_PAYMENTSTATUS=Completed&PAYMENTINFO_0_PENDINGREASON=None&PAYMENTINFO_0_REASONCODE=None&PAYMENTINFO_0_PROTECTIONELIGIBILITY=Eligible&PAYMENTINFO_0_PROTECTIONELIGIBILITYTYPE=ItemNotReceivedEligible%2cUnauthorizedPaymentEligible&PAYMENTINFO_0_ERRORCODE=0&PAYMENTINFO_0_ACK=Success,line:0

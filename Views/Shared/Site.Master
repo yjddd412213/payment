@@ -1,0 +1,76 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="TitleContent" runat="server" />
+    </title>
+    <link media="all" href="../../Content/master.css" type="text/css" rel="stylesheet" />
+    <link media="all" href="../../Content/account.css" type="text/css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server" />
+</head>
+<body style="background: url(Content/resources/BG_body.jpg) repeat-x #fff;">
+    <div id="container">
+        <!-- HEADER -->
+        <div class="corner_box" id="top">
+            <div class="corner bottom_left">
+            </div>
+            <div class="corner bottom_right">
+            </div>
+            <div id="top_inner">
+                <div id="logo">
+                    <a href="https://www.inywhere.com/">
+                        <img alt="Inywhere Logo" src="Content/Resources/logo.png" height="72px" border="0" />
+                    </a>
+                </div>
+            </div>
+            <!--/top_inner-->
+        </div>
+        <!--/top-->
+        <!-- END OF HEADER -->
+        <hr />
+        <!-- /HEADER -->
+        <div class="corner_box" id="main">
+            <div id="main_inner" style="height: auto;">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+            </div>
+        </div>
+        <!-- FOOTER -->
+        <div class="corner_box" id="footer">
+            <%--  <div class="corner top_left">
+            </div>
+            <div class="corner top_right">
+            </div>
+            <div class="corner bottom_left">
+            </div>
+            <div class="corner bottom_right">
+            </div>--%>
+            <div id="footer_inner">
+                <div id="footer_inner2">
+                    <div id="footer_inner3">
+                        <table>
+                            <tbody>
+                                <tr>
+<%--                                    <td>
+                                        <a href="http://www.inywhere.com/" target="_blank">Inywhere</a> | <a href="http://mobile.inywhere.com/PaymentManagement/"
+                                            target="_blank">Management</a>
+                                    </td>--%>
+                                    <td style="text-align: right">
+                                        Copyright 2012 Inywhere technology Inc
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <!--/footer_inner3-->
+                </div>
+                <!--/footer_inner2-->
+            </div>
+            <!--/footer_inner-->
+        </div>
+        <!--/footer-->
+        <!-- /FOOTER -->
+    </div>
+</body>
+</html>

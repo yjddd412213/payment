@@ -1,0 +1,277 @@
+
+.column {
+	BORDER-RIGHT: #000 0px solid; PADDING-RIGHT: 0px; BORDER-TOP: #000 0px solid; FLOAT: left; BORDER-LEFT: #000 0px solid; WIDTH: 430px; BORDER-BOTTOM: #000 0px solid
+}
+.columnright {
+	BORDER-RIGHT: #000 0px solid; PADDING-RIGHT: 0px; BORDER-TOP: #000 0px solid; FLOAT:right; BORDER-LEFT: #000 0px solid; WIDTH: 430px; BORDER-BOTTOM: #000 0px solid
+}
+.colx2 {
+	BORDER-RIGHT: #000 0px solid; BORDER-TOP: #000 0px solid; FLOAT: left; BORDER-LEFT: #000 0px solid; BORDER-BOTTOM: #000 0px solid; POSITION: relative
+}
+.colx3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; MARGIN-BOTTOM: 1em; PADDING-BOTTOM: 1em; WIDTH: 420px; PADDING-TOP: 0px
+}
+UL.disc {
+	MARGIN-TOP: 10px; LIST-STYLE-TYPE: disc
+}
+.indented.disc li
+{
+    list-style-type:cjk-ideographic;
+    }
+.indented {
+	PADDING-LEFT: 2em
+}
+.box {
+	BACKGROUND: #edf6f7 url('http://localhost/images/account/box_blue_top.gif') no-repeat 0px 0px; 
+FLOAT: left; WIDTH: 440px
+}
+.box2 {
+	padding: 0px 20px;
+BACKGROUND: url('http://localhost/images/account/box_blue_bottom.gif') no-repeat left bottom; 
+	FLOAT: left; MARGIN-BOTTOM: 0px; WIDTH: 400px;
+}
+.box2 .notice {
+	FONT-STYLE: italic
+}
+.box2 H2 {
+	MARGIN: 1em 0px
+}
+.box2 H2.narrow {
+	MARGIN-BOTTOM: 0px
+}
+.box2 .bottom {
+	MARGIN-BOTTOM: 2em
+}
+.box2 P.boxMessage {
+	MARGIN: 2em 0px; FONT-STYLE: italic
+}
+.box2 P.largeBoxMessage {
+	FONT-SIZE: 11pt; FONT-STYLE: normal
+}
+
+#banner {
+	border: 0px solid #000;
+    FLOAT: left; MARGIN:20px 0px 0px 0px; VERTICAL-ALIGN: middle; WIDTH: 100%; PADDING-TOP: 15px; padding-bottom:10px; POSITION: relative; TEXT-ALIGN: right;
+    height:30px;
+    left: 0px;
+    background-color: White
+}
+#banner > IMG {
+	MARGIN-TOP: -30px! important; DISPLAY: inline! important; FLOAT: left! important; MARGIN-BOTTOM: 6px! important; TEXT-ALIGN: left! important
+}
+
+A.icon {
+	PADDING-LEFT: 15px; FONT-WEIGHT: bold; FONT-SIZE: 1em
+}
+A.disabled:hover {
+	CURSOR: default; TEXT-DECORATION: none! important
+}
+
+HTML {
+	HEIGHT: auto
+}
+BODY {
+	HEIGHT: auto
+}
+
+.em {
+	FONT-WEIGHT: bold
+}
+LABEL.required:unknown {
+	content: "*"
+}
+INPUT[type='password'].long {
+	WIDTH: 220px
+}
+INPUT[type='text'].long {
+	WIDTH: 220px
+}
+INPUT[type='radio'] {
+	MARGIN-RIGHT: 6px
+}
+INPUT[type='submit'] {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+INPUT[type='button'] {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+INPUT[type='reset'] {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+FORM.multiSubmit INPUT[type='submit'] {
+	MARGIN-RIGHT: 10px! important
+}
+TEXTAREA {
+	WIDTH: 100%
+}
+
+A.details {
+	TEXT-DECORATION: underline
+}
+TABLE.premium TH {
+	PADDING-RIGHT: 2em; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+TABLE.premium TD {
+	PADDING-RIGHT: 2em; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+
+.icosubmit 
+{
+	width:205px;
+	HEIGHT: 32px ! important
+
+}
+.icosubmit SPAN 
+{
+	width:205px;
+	HEIGHT: 32px! important
+}
+.icosubmit SPAN INPUT 
+{
+	width:205px;
+	HEIGHT: 32px! important
+}
+.icosubmit SPAN {
+	BACKGROUND: url('/Inywhere.PaymentGateway.MVCPresentation/Inywhere.PaymentGateway.MVCPresentation/Inywhere.PaymentGateway.MVCPresentation/Content/Resources/complete.jpg') no-repeat left top;
+}
+
+.icosubmit SPAN INPUT {
+	BACKGROUND: url('/Inywhere.PaymentGateway.MVCPresentation/Inywhere.PaymentGateway.MVCPresentation/Inywhere.PaymentGateway.MVCPresentation/Content/Resources/complete.jpg') no-repeat left top;
+}
+
+.icosubmit SPAN INPUT:hover {
+	BACKGROUND: url('/Inywhere.PaymentGateway.MVCPresentation/Inywhere.PaymentGateway.MVCPresentation/Inywhere.PaymentGateway.MVCPresentation/Content/Resources/complete_press.jpg') no-repeat
+}
+.icosubmit SPAN INPUT:active {
+	BACKGROUND: url('/Inywhere.PaymentGateway.MVCPresentation/Inywhere.PaymentGateway.MVCPresentation/Inywhere.PaymentGateway.MVCPresentation/Content/Resources/complete.jpg') no-repeat
+}
+.icoorder 
+{
+	width:205px;
+	HEIGHT: 32px ! important
+
+}
+.icoorder SPAN 
+{
+	width:205px;
+	HEIGHT: 32px! important
+}
+.icoorder SPAN INPUT 
+{
+	width:205px;
+	HEIGHT: 32px! important
+}
+.icoorder SPAN {
+	BACKGROUND: url('/Inywhere.PaymentGateway.MVCPresentation/Inywhere.PaymentGateway.MVCPresentation/Inywhere.PaymentGateway.MVCPresentation/Content/Resources/order.jpg') no-repeat left top; 
+FLOAT: left! important
+}
+
+.icoorder SPAN INPUT {
+	BACKGROUND: url('/Inywhere.PaymentGateway.MVCPresentation/Inywhere.PaymentGateway.MVCPresentation/Inywhere.PaymentGateway.MVCPresentation/Content/Resources/order.jpg') no-repeat left top;
+}
+
+.icoorder SPAN INPUT:hover {
+	BACKGROUND: url('/Inywhere.PaymentGateway.MVCPresentation/Inywhere.PaymentGateway.MVCPresentation/Inywhere.PaymentGateway.MVCPresentation/Content/Resources/order_press.jpg') no-repeat
+}
+.icoorder SPAN INPUT:active {
+	BACKGROUND: url('/Inywhere.PaymentGateway.MVCPresentation/Inywhere.PaymentGateway.MVCPresentation/Inywhere.PaymentGateway.MVCPresentation/Content/Resources/order.jpg') no-repeat
+}
+
+
+
+#CheckoutDetails OL.error-global-list {
+	MARGIN-LEFT: 18px
+}
+#CheckoutDetails .error-status {
+	MARGIN-LEFT: 142px
+}
+
+.oneColumnForm {
+	MARGIN-TOP: 15px; MAX-WIDTH: 100%; MARGIN-LEFT: 12px; WIDTH: 100%; COLOR: #696969;
+}
+.oneColumnForm DIV LABEL {
+	MIN-WIDTH: 130px; DISPLAY: inline-block; FONT-WEIGHT: bold; MARGIN-LEFT: 10px; WIDTH: 130px; COLOR: black; align: right
+}
+.oneColumnForm DIV LABEL.error {
+	COLOR: red
+}
+
+
+.labelList
+{
+    margin-left:10px;
+    }
+.labelList label
+{
+    MIN-WIDTH: 130px; FONT-WEIGHT: bold; WIDTH: 130px; COLOR: black;
+    }
+    
+  
+
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error
+{
+    color: #ff0000;
+}
+
+.field-validation-valid
+{
+    display: none;
+}
+
+.input-validation-error
+{
+    border: 1px solid #ff0000;
+    background-color: #ffeeee;
+}
+
+.validation-summary-errors
+{
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.validation-summary-valid
+{
+    display: none;
+}
+
+/* Styles for editor and display helpers
+----------------------------------------------------------*/
+.display-label,
+.editor-label,
+.display-field,
+.editor-field
+{
+    margin: 0.5em 0;
+}
+
+.text-box
+{
+    width: 30em;
+}
+
+.text-box.multi-line
+{
+    height: 6.5em;
+}
+
+.tri-state
+{
+    width: 6em;
+}
+
+input[type="text"] 
+{
+    height: 16px;
+    width: 150px;
+    border: 1px solid #CCC;
+}
+
+input[type="password"] 
+{
+    height: 16px;
+    width: 150px;
+    border: 1px solid #CCC;
+}
